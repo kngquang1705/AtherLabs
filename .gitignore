@@ -9,7 +9,7 @@ Obj/
 Logs/
 Packages/
 UserSettings/
-
+ Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.dylib
 # File tạm của Unity Package Cache
 Library/PackageCache/
 # MemoryCaptures can get excessive in size.
